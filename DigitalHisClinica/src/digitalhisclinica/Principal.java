@@ -60,7 +60,7 @@ public class Principal extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-        System.out.println("HOLA MUNDO");// TODO add your handling code here:
+        System.out.println("NUEVOOOOO22222");// TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
